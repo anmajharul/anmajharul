@@ -6,7 +6,43 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Data-Driven+Intelligent+Transportation+Systems;Graph+Neural+Networks+for+Traffic+Forecasting;Travel+Behavior+Analysis+and+Discrete+Choice+Modeling;Spatiotemporal+Learning+under+Meteorological+Disruptions)](https://git.io/typing-svg)
 
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anmajharul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anmajharul/anmajharul/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Research-ITS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Transportation-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GNN-Spatiotemporal-success?style=for-the-badge"/>
+
+</p>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
+
+
+
+
 </div>
+
+
+
+
+
 
 
 ## 👨‍🎓 About Me
