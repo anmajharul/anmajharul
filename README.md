@@ -12,24 +12,11 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anmajharul/anmajharul/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Research-ITS-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ML-Transportation-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GNN-Spatiotemporal-success?style=for-the-badge"/>
 
-</p>
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 
