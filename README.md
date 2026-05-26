@@ -7,10 +7,7 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anmajharul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
+<p 
 
 
 <img src="https://img.shields.io/badge/Research-ITS-blue?style=for-the-badge"/>
