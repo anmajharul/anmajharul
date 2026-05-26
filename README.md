@@ -7,7 +7,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmajharul&theme=tokyo-night&hide_border=true&area=true"/>
+
 
 
 <p align="center">
@@ -20,13 +20,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=header"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgresql,git" />
-</p>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Majharul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transportation%20AI%20%7C%20ITS%20Researcher&descAlignY=60"/>
 
 
 <p align="center">
