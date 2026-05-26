@@ -183,17 +183,8 @@ Behavioral Analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,postgresql,mysql,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,r,sheet,git,github" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/QGIS-Spatial_Analytics-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OSRM-Routing_Engine-0ea5e9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SUMO-Traffic_Simulation-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-1f2937?style=for-the-badge"/>
 
 </div>
 
