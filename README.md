@@ -44,8 +44,7 @@
   - Weather-Aware Traffic Prediction
   - Urban Mobility Analytics
 
-I am actively preparing for a **fully-funded M.Sc. program (Mixed/Research Based)** for the **2027 intake**, targeting programs in ITS, smart cities, and transportation data science.
-
+Research interests include intelligent transportation systems, spatiotemporal learning, and urban mobility analytics under heterogeneous traffic conditions.
 📧 `contact@anmajharul.bd`
 
 ---
