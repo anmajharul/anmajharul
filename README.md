@@ -7,16 +7,32 @@
 
 
 
-<p 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmajharul&theme=tokyo-night&hide_border=true&area=true"/>
 
 
-<img src="https://img.shields.io/badge/Research-ITS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-Transportation-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GNN-Spatiotemporal-success?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Intelligent_Transportation_Systems-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Spatiotemporal_AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Travel_Behavior_Analysis-0284c7?style=for-the-badge"/>
 
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=header"/>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgresql,git" />
+</p>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Majharul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transportation%20AI%20%7C%20ITS%20Researcher&descAlignY=60"/>
+
+
+<p align="center">
+  🌧️ Weather-Aware Traffic Intelligence  
+  🚦 Spatiotemporal Urban Mobility Analytics
+</p>
 
 
 
