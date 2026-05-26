@@ -61,17 +61,223 @@ Research interests include intelligent transportation systems, spatiotemporal le
 
 ## 🔬 Active Research
 
-### 🏙️ Physics-Informed Hybrid ML for Traffic Forecasting — *Primary Thesis*
-> **Target Journal:** IEEE Transactions on Intelligent Transportation Systems (T-ITS, Q1)
 
-An end-to-end, scientifically defensible real-time ETA prediction system for **Mirpur-10**, Dhaka — one of the most heterogeneous, non-lane-based arterial corridors in South Asia. The pipeline fuses probe vehicle data, meteorological variables, and transit schedules under a physics-constrained XGBoost framework.
 
-**Key Methodological Contributions:**
-- 🔒 **Leakage-Safe Walk-Forward CV** — 5-fold temporal split; all baselines derived from training partition only *(Bergmeir & Benítez, 2012)*
-- 🚗 **Dynamic PCU Proxy** — Congestion-Intensity-scaled macroscopic density for unstructured NMT-heavy flows *(Chandra & Sikdar, 2000; JICA RSTP 2015)*
-- 🌧️ **Physics-Constrained Weather Penalty** — Precipitation-speed decay bounded by HCM 7e capacity limits *(Pregnolato et al., 2017)*
-- 📡 **Sensor Independence** — OSRM static baseline used for divergence feature; no multi-engine fusion *(El Faouzi et al., 2011)*
-- ⏱️ **Temporal Anomaly Detection** — Rolling z-score ($> 2\sigma$) replacing flawed spatial thresholds *(Ahmed & Cook, 1979)*
+
+
+## 🔬 Active Research
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=1000&lines=Physics-Informed+Hybrid+ML+for+Traffic+Forecasting;Real-Time+ETA+Prediction+under+Weather+Disruptions;Spatiotemporal+Transportation+Intelligence+Systems;Leakage-Safe+AI+for+Heterogeneous+Urban+Traffic"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Primary%20Research%20Thesis&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Physics-Informed%20Machine%20Learning%20for%20Urban%20Traffic%20Forecasting&descAlignY=68&descSize=18"/>
+
+</div>
+
+# 🏙️ Physics-Informed Hybrid ML for Traffic Forecasting
+
+> **Research Domain:** Intelligent Transportation Systems (ITS)  
+> **Research Focus:** Real-Time ETA Prediction under Heterogeneous Urban Traffic Conditions
+
+---
+
+## 📌 Research Overview
+
+An end-to-end, scientifically defensible real-time ETA prediction framework for **Mirpur-10, Dhaka** — one of the most heterogeneous and non-lane-based arterial corridors in South Asia.
+
+The proposed pipeline integrates:
+
+- 🚗 Probe vehicle telemetry
+- 🌧️ Meteorological dynamics
+- 🚌 Transit schedule intelligence
+- 🗺️ GIS-aware corridor features
+- 📡 OSRM baseline divergence
+- 🧠 Physics-constrained machine learning
+
+under a leakage-safe, temporally consistent hybrid XGBoost framework.
+
+---
+
+## 🧠 Key Methodological Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔒 Leakage-Safe Walk-Forward CV
+
+- 5-fold temporal validation
+- Strict train-only feature derivation
+- No future-state contamination
+- Temporal consistency preserved
+
+📚 *Bergmeir & Benítez (2012)*
+
+</td>
+
+<td width="50%">
+
+### 🚗 Dynamic PCU Proxy
+
+- Congestion-scaled density estimation
+- Designed for NMT-heavy heterogeneous flow
+- Macroscopic adaptive traffic state representation
+
+📚 *Chandra & Sikdar (2000)*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌧️ Physics-Constrained Weather Penalty
+
+- Rainfall-speed decay modeling
+- Capacity-bounded traffic degradation
+- HCM-informed physical constraints
+
+📚 *Pregnolato et al. (2017)*
+
+</td>
+
+<td width="50%">
+
+### 📡 Sensor Independence
+
+- OSRM static baseline divergence
+- No multi-engine sensor fusion
+- Reduced cross-source leakage risk
+
+📚 *El Faouzi et al. (2011)*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⏱️ Temporal Anomaly Detection
+
+- Rolling z-score anomaly filtering
+- Dynamic temporal thresholding
+- Replaces unstable spatial heuristics
+
+📚 *Ahmed & Cook (1979)*
+
+</td>
+
+<td width="50%">
+
+### 🧩 Hybrid Physics-ML Integration
+
+- Physics-guided XGBoost optimization
+- Domain-constrained learning behavior
+- Robustness under weather disruptions
+
+📚 *Transportation AI Framework*
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ System Architecture
+
+<div align="center">
+
+```text
+Probe Vehicle Streams
+          ↓
+Temporal Alignment Engine
+          ↓
+Meteorological Feature Fusion
+          ↓
+Leakage-Safe Feature Engineering
+          ↓
+Dynamic Traffic State Estimation
+          ↓
+Physics-Constrained XGBoost
+          ↓
+Real-Time ETA Prediction
+          ↓
+Robustness & Error Evaluation
+```
+
+</div>
+
+---
+
+## 📊 Core Research Properties
+
+<div align="center">
+
+| Property | Description |
+|---|---|
+| 🚦 Corridor Type | Non-Lane-Based Urban Arterial |
+| 🌧️ Weather Robustness | Heavy Rainfall Adaptive |
+| 📡 Sensor Design | Independent Baseline Structure |
+| 🧠 Learning Strategy | Physics-Constrained ML |
+| ⏱️ Validation | Walk-Forward Temporal CV |
+| 🗺️ Spatial Context | GIS-Aware Feature Space |
+| 🚗 Flow Characteristics | Heterogeneous Mixed Traffic |
+| 📈 Deployment Goal | Real-Time ETA Prediction |
+
+</div>
+
+---
+
+## 🧪 Research Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgresql,mysql,git,github,docker,vscode"/>
+
+</div>
+
+---
+
+## 📈 Research Visualization
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmajharul&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🚀 Scientific Objectives
+
+- Real-time ETA forecasting under heterogeneous traffic
+- Weather-aware transportation intelligence
+- Leakage-safe spatiotemporal ML pipelines
+- Physics-guided traffic prediction systems
+- Urban mobility resilience under disruptions
+- Scientifically defensible ITS forecasting frameworks
+
+---
+
+<div align="center">
+
+### 🚦 Bridging Transportation Engineering with AI-Driven Urban Intelligence
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
+
+
+
+
+
 
 ## ⚙️ Tech Stack
 
