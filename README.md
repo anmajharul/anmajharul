@@ -124,3 +124,95 @@ Discrete Choice Modeling
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# 🚦 Majharul Islam
+
+### Transportation Engineering Researcher  
+### Machine Learning for Intelligent Transportation Systems
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Data-Driven+Intelligent+Transportation+Systems;Graph+Neural+Networks+for+Traffic+Forecasting;Travel+Behavior+Analysis+and+Discrete+Choice+Modeling;Spatiotemporal+Learning+under+Meteorological+Disruptions)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍🎓 About Me
+
+- 🎓 Civil Engineering Student at **Bangladesh University of Business and Technology (BUBT)**
+- 🚦 Research Focus:
+  - Intelligent Transportation Systems (ITS)
+  - Traffic Forecasting
+  - Travel Behavior Analysis
+  - Discrete Choice Modeling
+  - Spatiotemporal Machine Learning
+- 🤖 Interested in:
+  - Graph Neural Networks (GNN)
+  - Physics-Informed ML
+  - Weather-Aware Traffic Prediction
+  - Urban Mobility Analytics
+
+---
+
+## 🧪 Current Research
+
+| Project | Status |
+|---|---|
+| Spatiotemporal Traffic Forecasting under Weather Disruptions | 🟢 Active |
+| Discrete Choice Modeling for Mode Shift Analysis | 🟢 Active |
+| GIS-Based Transportation Analysis | 🟡 Ongoing |
+| Intelligent Traffic Prediction using GNNs | 🟢 Research |
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgresql,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anmajharul&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anmajharul&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmajharul&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧠 Research Interests
+
+```text
+• Intelligent Transportation Systems
+• Machine Learning for Transportation
+• Travel Behavior Analytics
+• Graph Neural Networks
+• Urban Traffic Forecasting
+• Spatiotemporal Deep Learning
+• Transportation Data Science
