@@ -13,6 +13,12 @@
   <a href="https://x.com/anmajharul"><img src="https://img.shields.io/badge/X-anmajharul-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Transportation+Engineer+%F0%9F%9A%A6;AI+%26+ITS+Researcher+%F0%9F%A4%96;IEEE+T-ITS+Target+%F0%9F%8E%AF;BUBT+Civil+Engineering+%F0%9F%8F%9B%EF%B8%8F)
+
+](https://git.io/typing-svg)
+
 </div>
 
 ---
