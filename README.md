@@ -213,7 +213,7 @@ Behavioral Analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,postgresql,mysql,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,postgresql,mysql,docker,git,github,supabase,linux,vscode" />
 
 <br><br>
 
@@ -266,17 +266,21 @@ Behavioral Analysis
 ---
 
 <div align="center">
-
+---
 # Author
 
 Majharul Islam  
-Civil Engineering Student  
+Civil Engineer  
 Bangladesh University of Business and Technology (BUBT)
 
 Research Focus:
 Transportation Engineering  
 Travel Behavior Analysis  
 Discrete Choice Modeling
+Intelligent transportation systems
+Urban mobility analytics under heterogeneous traffic conditions
+
+
 
 
 <!-- Badges -->
