@@ -22,6 +22,17 @@
 ## 👋 About Me
 
 I was a **B.Sc. Civil Engineering** student at **Bangladesh University of Business and Technology (BUBT)**, Dhaka, specializing in the intersection of **transportation engineering** and **artificial intelligence**. My research targets the design of scientifically rigorous, physics-informed ML systems for smart mobility in complex, heterogeneous traffic environments.
+- 🚦 Research Focus:
+  - Intelligent Transportation Systems (ITS)
+  - Traffic Forecasting
+  - Travel Behavior Analysis
+  - Discrete Choice Modeling
+  - Spatiotemporal Machine Learning
+- 🤖 Interested in:
+  - Graph Neural Networks (GNN)
+  - Physics-Informed ML
+  - Weather-Aware Traffic Prediction
+  - Urban Mobility Analytics
 
 I am actively preparing for a **fully-funded M.Sc. program** for the **2027 intake**, targeting programs in ITS, smart cities, and transportation data science.
 
@@ -51,6 +62,19 @@ An end-to-end, scientifically defensible real-time ETA prediction system for **M
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-Serverless-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/React-Dashboard-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgresql,mysql,git,github,vscode" />
+
+</p>
+
+---
 
 📂 **Repository:** [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline)
 
@@ -90,100 +114,6 @@ Analyzing commuter travel behavior trade-offs using Multinomial and Mixed Logit 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anmajharul&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmajharul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
-</div>
-
----
-
-<div align="center">
-
-# Author
-
-Majharul Islam  
-Civil Engineering Student  
-Bangladesh University of Business and Technology (BUBT)
-
-Research Focus:
-Transportation Engineering  
-Travel Behavior Analysis  
-Discrete Choice Modeling
-
-
-© Majharul Islam – Research Portfolio
-=======
-[![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd)
-
-*"Academic precision meets engineering excellence."*
-
-**[anmajharul.bd](https://anmajharul.bd)** · © Majharul Islam
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
-
-</div>
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-# 🚦 Majharul Islam
-
-### Transportation Engineering Researcher  
-### Machine Learning for Intelligent Transportation Systems
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Data-Driven+Intelligent+Transportation+Systems;Graph+Neural+Networks+for+Traffic+Forecasting;Travel+Behavior+Analysis+and+Discrete+Choice+Modeling;Spatiotemporal+Learning+under+Meteorological+Disruptions)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍🎓 About Me
-
-- 🎓 Civil Engineering Student at **Bangladesh University of Business and Technology (BUBT)**
-- 🚦 Research Focus:
-  - Intelligent Transportation Systems (ITS)
-  - Traffic Forecasting
-  - Travel Behavior Analysis
-  - Discrete Choice Modeling
-  - Spatiotemporal Machine Learning
-- 🤖 Interested in:
-  - Graph Neural Networks (GNN)
-  - Physics-Informed ML
-  - Weather-Aware Traffic Prediction
-  - Urban Mobility Analytics
-
----
-
-## 🧪 Current Research
-
-| Project | Status |
-|---|---|
-| Spatiotemporal Traffic Forecasting under Weather Disruptions | 🟢 Active |
-| Discrete Choice Modeling for Mode Shift Analysis | 🟢 Active |
-| GIS-Based Transportation Analysis | 🟡 Ongoing |
-| Intelligent Traffic Prediction using GNNs | 🟢 Research |
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgresql,mysql,git,github,vscode" />
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -206,13 +136,27 @@ Discrete Choice Modeling
 
 ---
 
-## 🧠 Research Interests
+<div align="center">
 
-```text
-• Intelligent Transportation Systems
-• Machine Learning for Transportation
-• Travel Behavior Analytics
-• Graph Neural Networks
-• Urban Traffic Forecasting
-• Spatiotemporal Deep Learning
-• Transportation Data Science
+# Author
+
+Majharul Islam  
+Civil Engineering Student  
+Bangladesh University of Business and Technology (BUBT)
+
+Research Focus:
+Transportation Engineering  
+Travel Behavior Analysis  
+Discrete Choice Modeling
+
+
+=======
+[![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd)
+
+*"Academic precision meets engineering excellence."*
+
+**© Majharul Islam**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+
+</div>
