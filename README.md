@@ -125,16 +125,16 @@ Real-Time ETA Prediction
 
 <div align="center">
 
-### 🚦 Bridging Transportation Engineering with AI-Driven Urban Intelligence
+*🚦 Bridging Transportation Engineering with AI-Driven Urban Intelligence*
 
 </div>
 
 
 
 
+---
 
-
-#⚙️ Tech Stack
+⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Primary_Model-FF6600?style=flat-square)
@@ -185,7 +185,7 @@ Behavioral Analysis
 
 <img src="https://skillicons.dev/icons?i=python,r,googlesheet,git,github" />
 
-
+---
 </div>
 
 
