@@ -99,6 +99,22 @@ Analyzing commuter travel behavior trade-offs using Multinomial and Mixed Logit 
 
 <div align="center">
 
+# Author
+
+Majharul Islam  
+Civil Engineering Student  
+Bangladesh University of Business and Technology (BUBT)
+
+Research Focus:
+Transportation Engineering  
+Travel Behavior Analysis  
+Discrete Choice Modeling
+
+
+© Majharul Islam – Research Portfolio
+=======
+[![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd)
+
 *"Academic precision meets engineering excellence."*
 
 **[anmajharul.bd](https://anmajharul.bd)** · © Majharul Islam
