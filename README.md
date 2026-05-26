@@ -65,21 +65,8 @@ Research interests include intelligent transportation systems, spatiotemporal le
 
 
 
-## 🔬 Active Research
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=1000&lines=Physics-Informed+Hybrid+ML+for+Traffic+Forecasting;Real-Time+ETA+Prediction+under+Weather+Disruptions;Spatiotemporal+Transportation+Intelligence+Systems;Leakage-Safe+AI+for+Heterogeneous+Urban+Traffic"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Primary%20Research%20Thesis&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Physics-Informed%20Machine%20Learning%20for%20Urban%20Traffic%20Forecasting&descAlignY=68&descSize=18"/>
-
-</div>
 
 # 🏙️ Physics-Informed Hybrid ML for Traffic Forecasting
 
@@ -235,15 +222,7 @@ Robustness & Error Evaluation
 
 ---
 
-## 🧪 Research Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgresql,mysql,git,github,docker,vscode"/>
-
-</div>
-
----
 
 ## 📈 Research Visualization
 
