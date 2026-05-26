@@ -5,15 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Data-Driven+Intelligent+Transportation+Systems;Graph+Neural+Networks+for+Traffic+Forecasting;Travel+Behavior+Analysis+and+Discrete+Choice+Modeling;Spatiotemporal+Learning+under+Meteorological+Disruptions)](https://git.io/typing-svg)
 
-<!-- Badges -->
-<p>
-  <a href="https://anmajharul.bd"><img src="https://img.shields.io/badge/Website-anmajharul.bd-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Majharul-Islam-12"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
-  <a href="https://orcid.org/0009-0000-7553-1576"><img src="https://img.shields.io/badge/ORCID-0009--0000--7553--1576-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=wHQEBSAAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anmajharul"><img src="https://img.shields.io/badge/LinkedIn-anmajharul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/anmajharul"><img src="https://img.shields.io/badge/X-anmajharul-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 </div>
 
@@ -71,7 +62,7 @@ An end-to-end, scientifically defensible real-time ETA prediction system for **M
 
 ---
 
-## 📂 **Repository:** [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline)
+📂 **Repository:** [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline)
 
 ---
 
@@ -145,8 +136,15 @@ Travel Behavior Analysis
 Discrete Choice Modeling
 
 
-[![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd)
-
+<!-- Badges -->
+<p>
+  <a href="https://anmajharul.bd"><img src="https://img.shields.io/badge/Website-anmajharul.bd-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Majharul-Islam-12"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0000-7553-1576"><img src="https://img.shields.io/badge/ORCID-0009--0000--7553--1576-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=wHQEBSAAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anmajharul"><img src="https://img.shields.io/badge/LinkedIn-anmajharul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/anmajharul"><img src="https://img.shields.io/badge/X-anmajharul-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 *"Academic precision meets engineering excellence."*
 
 **© Majharul Islam**
