@@ -198,8 +198,8 @@ Behavioral Analysis
 
 | Repository | Description | Status |
 |:---|:---|:---:|
-| [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline) | Physics-informed hybrid ML for real-time ETA prediction — IEEE T-ITS target | 🟢 Active |
-| [`labs`](https://github.com/anmajharul/labs) | Discrete choice modeling, simulation configs, research scripts | 🟢 Active |
+| [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline) | Physics-informed ML for real-time ETA prediction | 🟢 Active |
+| [`labs`](https://github.com/anmajharul/labs) | Discrete choice modeling & others transportation research scripts | 🟢 Active |
 
 ---
 
