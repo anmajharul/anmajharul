@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I am a final-year **B.Sc. Civil Engineering** student at **Bangladesh University of Business and Technology (BUBT)**, Dhaka, specializing in the intersection of **transportation engineering** and **artificial intelligence**. My research targets the design of scientifically rigorous, physics-informed ML systems for smart mobility in complex, heterogeneous traffic environments.
+I was a **B.Sc. Civil Engineering** student at **Bangladesh University of Business and Technology (BUBT)**, Dhaka, specializing in the intersection of **transportation engineering** and **artificial intelligence**. My research targets the design of scientifically rigorous, physics-informed ML systems for smart mobility in complex, heterogeneous traffic environments.
 
 I am actively preparing for a **fully-funded M.Sc. program** for the **2027 intake**, targeting programs in ITS, smart cities, and transportation data science.
 
