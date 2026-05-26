@@ -213,7 +213,7 @@ Behavioral Analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,postgresql,mysql,docker,git,github,supabase,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,postgresql,mysql,docker,git,github,supabase,linux,vscode,opencv,npm,nodejs,nextjs,matlab,latex,go,gcp,fastapi,autocad,anaconda" />
 
 <br><br>
 
