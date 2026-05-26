@@ -155,10 +155,24 @@ Real-Time ETA Prediction
 
 ---
 
-### 🚌 Mode Shift Behavior Using Discrete Choice Models — *Secondary Thesis*
-> **Focus:** BUBT Students, Dhaka Urban Transit
+### 🚌 Mode Shift Behavior Using Discrete Choice Models
 
-Analyzing commuter travel behavior trade-offs using Multinomial and Mixed Logit models. Survey instruments and data processing tools are implemented in Python and R. The research targets understanding modal preference shifts under varying transit quality, cost, and comfort attributes.
+> Urban transit mode preference analysis using Multinomial and Mixed Logit models for BUBT student commuters in Dhaka.
+
+- 🚍 Utility-based mode choice modeling  
+- 📊 Travel cost, comfort & time sensitivity analysis  
+- 📋 Survey-driven behavioral data analytics  
+- 🐍 Python & R-based estimation workflow  
+
+```text
+Survey Data
+    ↓
+Feature Encoding
+    ↓
+MNL / Mixed Logit
+    ↓
+Behavioral Analysis
+```
 
 📂 **Repository:** [`labs`](https://github.com/anmajharul/labs)
 
