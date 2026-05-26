@@ -273,7 +273,7 @@ Majharul Islam
 Civil Engineer  
 Bangladesh University of Business and Technology (BUBT)
 
-Research Focus:
+-Research Focus:
 -Transportation Engineering  
 -Travel Behavior Analysis  
 -Discrete Choice Modeling
