@@ -144,7 +144,7 @@ Discrete Choice Modeling
   <a href="https://linkedin.com/in/anmajharul"><img src="https://img.shields.io/badge/LinkedIn-anmajharul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/anmajharul"><img src="https://img.shields.io/badge/X-anmajharul-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-*"Academic precision meets engineering excellence."*
+**Academic precision meets engineering excellence.**
 
 **© Majharul Islam**
 
