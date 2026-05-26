@@ -157,7 +157,7 @@ Real-Time ETA Prediction
 
 ### 🚌 Mode Shift Behavior Using Discrete Choice Models
 
-> Urban transit mode preference analysis using Multinomial and Mixed Logit models for BUBT student commuters in Dhaka.
+> Urban transit mode preference analysis using Multinomial model for BUBT student commuters in Dhaka.
 
 - 🚍 Utility-based mode choice modeling  
 - 📊 Travel cost, comfort & time sensitivity analysis  
@@ -169,7 +169,7 @@ Survey Data
     ↓
 Feature Encoding
     ↓
-MNL / Mixed Logit
+MNL
     ↓
 Behavioral Analysis
 ```
