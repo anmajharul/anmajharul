@@ -173,17 +173,17 @@ MNL
     ↓
 Behavioral Analysis
 ```
-
+---
 📂 **Repository:** [`labs`](https://github.com/anmajharul/labs)
 
 ---
 
 
-#⚙️ Tech Stack
+⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,googlesheet,git,github" />
+<img src="https://skillicons.dev/icons?i=python,r,git,github" />
 
 ---
 </div>
