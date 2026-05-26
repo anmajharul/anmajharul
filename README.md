@@ -3,7 +3,7 @@
 <!-- Dynamic Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Majharul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Transportation%20Engineer%20%7C%20AI%20Researcher%20%7C%20BUBT&descSize=18&descAlignY=58&descColor=94a3b8&animation=fadeIn" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Transportation+Engineer+%F0%9F%9A%A6;AI+%26+ITS+Researcher+%F0%9F%A4%96;IEEE+T-ITS+Target+%F0%9F%8E%AF;Civil+Engineer+Major+Transportation+%F0%9F%8F%9B%EF%B8%8F)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Data-Driven+Intelligent+Transportation+Systems;Graph+Neural+Networks+for+Traffic+Forecasting;Travel+Behavior+Analysis+and+Discrete+Choice+Modeling;Spatiotemporal+Learning+under+Meteorological+Disruptions)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <p>
