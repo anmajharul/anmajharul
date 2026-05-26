@@ -19,9 +19,9 @@
 
 ---
 
-## 👋 About Me
+## 👨‍🎓 About Me
 
-I was a **B.Sc. Civil Engineering** student at **Bangladesh University of Business and Technology (BUBT)**, Dhaka, specializing in the intersection of **transportation engineering** and **artificial intelligence**. My research targets the design of scientifically rigorous, physics-informed ML systems for smart mobility in complex, heterogeneous traffic environments.
+- 🎓 Civil Engineering Student at **Bangladesh University of Business and Technology (BUBT)**
 - 🚦 Research Focus:
   - Intelligent Transportation Systems (ITS)
   - Traffic Forecasting
@@ -34,7 +34,7 @@ I was a **B.Sc. Civil Engineering** student at **Bangladesh University of Busine
   - Weather-Aware Traffic Prediction
   - Urban Mobility Analytics
 
-I am actively preparing for a **fully-funded M.Sc. program** for the **2027 intake**, targeting programs in ITS, smart cities, and transportation data science.
+I am actively preparing for a **fully-funded M.Sc. program (Mixed/Research Based)** for the **2027 intake**, targeting programs in ITS, smart cities, and transportation data science.
 
 📧 `contact@anmajharul.bd`
 
@@ -54,7 +54,7 @@ An end-to-end, scientifically defensible real-time ETA prediction system for **M
 - 📡 **Sensor Independence** — OSRM static baseline used for divergence feature; no multi-engine fusion *(El Faouzi et al., 2011)*
 - ⏱️ **Temporal Anomaly Detection** — Rolling z-score ($> 2\sigma$) replacing flawed spatial thresholds *(Ahmed & Cook, 1979)*
 
-**Stack:**
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Primary_Model-FF6600?style=flat-square)
@@ -62,11 +62,6 @@ An end-to-end, scientifically defensible real-time ETA prediction system for **M
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-Serverless-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/React-Dashboard-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
----
-
-## ⚙️ Tech Stack
 
 <p align="center">
 
@@ -76,7 +71,7 @@ An end-to-end, scientifically defensible real-time ETA prediction system for **M
 
 ---
 
-📂 **Repository:** [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline)
+## 📂 **Repository:** [`mirpur_traffic_pipeline`](https://github.com/anmajharul/mirpur_traffic_pipeline)
 
 ---
 
@@ -150,7 +145,6 @@ Travel Behavior Analysis
 Discrete Choice Modeling
 
 
-=======
 [![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd)
 
 *"Academic precision meets engineering excellence."*
