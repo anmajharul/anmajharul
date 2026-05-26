@@ -3,6 +3,8 @@
 <!-- Dynamic Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Majharul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Transportation%20Engineer%20%7C%20AI%20Researcher%20%7C%20BUBT&descSize=18&descAlignY=58&descColor=94a3b8&animation=fadeIn" />
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Transportation+Engineer+%F0%9F%9A%A6;AI+%26+ITS+Researcher+%F0%9F%A4%96;IEEE+T-ITS+Target+%F0%9F%8E%AF;BUBT+Civil+Engineering+%F0%9F%8F%9B%EF%B8%8F)
+
 <!-- Badges -->
 <p>
   <a href="https://anmajharul.bd"><img src="https://img.shields.io/badge/Website-anmajharul.bd-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -12,12 +14,6 @@
   <a href="https://linkedin.com/in/anmajharul"><img src="https://img.shields.io/badge/LinkedIn-anmajharul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/anmajharul"><img src="https://img.shields.io/badge/X-anmajharul-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Transportation+Engineer+%F0%9F%9A%A6;AI+%26+ITS+Researcher+%F0%9F%A4%96;IEEE+T-ITS+Target+%F0%9F%8E%AF;BUBT+Civil+Engineering+%F0%9F%8F%9B%EF%B8%8F)
-
-](https://git.io/typing-svg)
 
 </div>
 
