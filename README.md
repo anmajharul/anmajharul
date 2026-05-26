@@ -62,179 +62,66 @@ Research interests include intelligent transportation systems, spatiotemporal le
 ## 🔬 Active Research
 
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Physics-Informed+Traffic+Forecasting;Spatiotemporal+Transportation+Intelligence;Leakage-Safe+Hybrid+ML+Framework;Real-Time+ETA+Prediction+under+Weather+Disruptions"/>
 
+</div>
 
-
-
+---
 
 # 🏙️ Physics-Informed Hybrid ML for Traffic Forecasting
 
-> **Research Domain:** Intelligent Transportation Systems (ITS)  
-> **Research Focus:** Real-Time ETA Prediction under Heterogeneous Urban Traffic Conditions
+> Real-time ETA prediction for heterogeneous, non-lane-based urban traffic under meteorological disruptions using a physics-constrained XGBoost framework.
+
+### 📍 Study Corridor
+- Mirpur-10, Dhaka
+- Heterogeneous mixed traffic
+- Weather-sensitive congestion dynamics
 
 ---
 
-## 📌 Research Overview
+## 🧠 Key Contributions
 
-An end-to-end, scientifically defensible real-time ETA prediction framework for **Mirpur-10, Dhaka** — one of the most heterogeneous and non-lane-based arterial corridors in South Asia.
+- 🔒 **Leakage-Safe Walk-Forward CV**  
+  5-fold temporal split with strict train-only feature derivation.
 
-The proposed pipeline integrates:
+- 🚗 **Dynamic PCU Proxy**  
+  Congestion-scaled density estimation for NMT-heavy traffic.
 
-- 🚗 Probe vehicle telemetry
-- 🌧️ Meteorological dynamics
-- 🚌 Transit schedule intelligence
-- 🗺️ GIS-aware corridor features
-- 📡 OSRM baseline divergence
-- 🧠 Physics-constrained machine learning
+- 🌧️ **Physics-Constrained Weather Penalty**  
+  Rainfall-speed decay bounded by HCM-based capacity constraints.
 
-under a leakage-safe, temporally consistent hybrid XGBoost framework.
+- 📡 **Sensor Independence**  
+  OSRM baseline divergence without multi-engine fusion.
 
----
-
-## 🧠 Key Methodological Contributions
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔒 Leakage-Safe Walk-Forward CV
-
-- 5-fold temporal validation
-- Strict train-only feature derivation
-- No future-state contamination
-- Temporal consistency preserved
-
-📚 *Bergmeir & Benítez (2012)*
-
-</td>
-
-<td width="50%">
-
-### 🚗 Dynamic PCU Proxy
-
-- Congestion-scaled density estimation
-- Designed for NMT-heavy heterogeneous flow
-- Macroscopic adaptive traffic state representation
-
-📚 *Chandra & Sikdar (2000)*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌧️ Physics-Constrained Weather Penalty
-
-- Rainfall-speed decay modeling
-- Capacity-bounded traffic degradation
-- HCM-informed physical constraints
-
-📚 *Pregnolato et al. (2017)*
-
-</td>
-
-<td width="50%">
-
-### 📡 Sensor Independence
-
-- OSRM static baseline divergence
-- No multi-engine sensor fusion
-- Reduced cross-source leakage risk
-
-📚 *El Faouzi et al. (2011)*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⏱️ Temporal Anomaly Detection
-
-- Rolling z-score anomaly filtering
-- Dynamic temporal thresholding
-- Replaces unstable spatial heuristics
-
-📚 *Ahmed & Cook (1979)*
-
-</td>
-
-<td width="50%">
-
-### 🧩 Hybrid Physics-ML Integration
-
-- Physics-guided XGBoost optimization
-- Domain-constrained learning behavior
-- Robustness under weather disruptions
-
-📚 *Transportation AI Framework*
-
-</td>
-</tr>
-</table>
+- ⏱️ **Temporal Anomaly Detection**  
+  Rolling z-score filtering replacing unstable spatial thresholds.
 
 ---
 
-## ⚙️ System Architecture
-
-<div align="center">
+## ⚙️ Pipeline
 
 ```text
-Probe Vehicle Streams
-          ↓
-Temporal Alignment Engine
-          ↓
-Meteorological Feature Fusion
-          ↓
-Leakage-Safe Feature Engineering
-          ↓
-Dynamic Traffic State Estimation
-          ↓
+Probe Data
+   ↓
+Weather Fusion
+   ↓
+Leakage-Safe Features
+   ↓
+Traffic State Estimation
+   ↓
 Physics-Constrained XGBoost
-          ↓
+   ↓
 Real-Time ETA Prediction
-          ↓
-Robustness & Error Evaluation
 ```
 
-</div>
-
----
-
-## 📊 Core Research Properties
-
-<div align="center">
-
-| Property | Description |
-|---|---|
-| 🚦 Corridor Type | Non-Lane-Based Urban Arterial |
-| 🌧️ Weather Robustness | Heavy Rainfall Adaptive |
-| 📡 Sensor Design | Independent Baseline Structure |
-| 🧠 Learning Strategy | Physics-Constrained ML |
-| ⏱️ Validation | Walk-Forward Temporal CV |
-| 🗺️ Spatial Context | GIS-Aware Feature Space |
-| 🚗 Flow Characteristics | Heterogeneous Mixed Traffic |
-| 📈 Deployment Goal | Real-Time ETA Prediction |
-
-</div>
-
 ---
 
 
----
 
-## 🚀 Scientific Objectives
 
-- Real-time ETA forecasting under heterogeneous traffic
-- Weather-aware transportation intelligence
-- Leakage-safe spatiotemporal ML pipelines
-- Physics-guided traffic prediction systems
-- Urban mobility resilience under disruptions
-- Scientifically defensible ITS forecasting frameworks
 
----
 
 <div align="center">
 
