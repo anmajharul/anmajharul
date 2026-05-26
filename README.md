@@ -223,15 +223,6 @@ Robustness & Error Evaluation
 ---
 
 
-
-## 📈 Research Visualization
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmajharul&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
 ---
 
 ## 🚀 Scientific Objectives
@@ -248,8 +239,6 @@ Robustness & Error Evaluation
 <div align="center">
 
 ### 🚦 Bridging Transportation Engineering with AI-Driven Urban Intelligence
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
 
